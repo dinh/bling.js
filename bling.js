@@ -1,5 +1,6 @@
 /* bling.js 
    @author Paul Irish
+   origin - https://gist.github.com/paulirish/12fb951a8b893a454b32
 */
 
 window.$ = document.querySelectorAll.bind(document);
