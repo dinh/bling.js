@@ -2,6 +2,8 @@
 
 Because you want the $ of jQuery without the jQuery.
 
+taken from [Paul Irish gist](https://gist.github.com/paulirish/12fb951a8b893a454b32).
+
 ------------------------------------
 
 You could call this a microlibrary, but really it's just some code that works.
