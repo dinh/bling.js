@@ -2,7 +2,7 @@
 
 Because you want the $ of jQuery without the jQuery.
 
-taken from [Paul Irish gist](https://gist.github.com/paulirish/12fb951a8b893a454b32).
+taken from [this](https://gist.github.com/paulirish/12fb951a8b893a454b32) Paul Irish gist.
 
 ------------------------------------
 
